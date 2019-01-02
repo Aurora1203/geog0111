@@ -71,7 +71,7 @@ this trace gas.
 
 The time series looks like this
 
-.. figure:: https://www.pmel.noaa.gov/co2/files/co2_data_mlo_med.jpg
+.. figure:: https://www.esrl.noaa.gov/gmd/webdata/ccgg/trends/co2_data_mlo.png
    :alt: Mauna Loa CO2 record
 
    Mauna Loa CO2 record
