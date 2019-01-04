@@ -197,35 +197,35 @@ elatively easy to learn and portable acros
    Chapter9_Fire_and_Teleconnections_Solution.rst
    Connection.rst
 
-.. _Go to full list of notebooks: https://mybinder.org/v2/gh/profLewis/geog0111.git/master
-.. _Chapter0_help: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter0_help.ipynb
-.. _Chapter1_Python_introduction: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter1_Python_introduction.ipynb
-.. _Chapter1_Python_introduction_answers: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter1_Python_introduction_answers.ipynb
-.. _Chapter2_Numpy_matplotlib: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter2_Numpy_matplotlib.ipynb
-.. _Chapter2_Numpy_matplotlib_answers: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter2_Numpy_matplotlib_answers.ipynb
-.. _Chapter3_0_GDAL: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter3_0_GDAL.ipynb
-.. _Chapter3_1_GDAL: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter3_1_GDAL.ipynb
-.. _Chapter3_1_GDAL_answers: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter3_1_GDAL_answers.ipynb
-.. _Chapter3_2_MODIS_download: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter3_2_MODIS_download.ipynb
-.. _Chapter3_2_MODIS_download_answers: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter3_2_MODIS_download_answers.ipynb
-.. _Chapter3_3_GDAL_masking: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter3_3_GDAL_masking.ipynb
-.. _Chapter3_4_GDAL_stacking_and_interpolating: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter3_4_GDAL_stacking_and_interpolating.ipynb
-.. _Chapter3_4a_GDAL_stacking_and_interpolating-convolution: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter3_4a_GDAL_stacking_and_interpolating-convolution.ipynb
-.. _Chapter3_5_Movies: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter3_5_Movies.ipynb
-.. _Chapter3_6A_GDAL_Reconciling_projections_prerequisites: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter3_6A_GDAL_Reconciling_projections_prerequisites.ipynb
-.. _Chapter3_6_GDAL_Reconciling_projections: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter3_6_GDAL_Reconciling_projections.ipynb
-.. _Chapter4_Practical_Part1: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter4_Practical_Part1.ipynb
-.. _Chapter5_Linear_models: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter5_Linear_models.ipynb
-.. _Chapter5_Modelling_and_optimisation: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter5_Modelling_and_optimisation.ipynb
-.. _Chapter6_NonLinear_Model_Fitting: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter6_NonLinear_Model_Fitting.ipynb
-.. _Chapter6_NonLinear_Model_Fitting_Solutions: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter6_NonLinear_Model_Fitting_Solutions.ipynb
-.. _Chapter7_FittingPhenologyModels: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter7_FittingPhenologyModels.ipynb
-.. _Chapter7_FittingPhenologyModels_Solutions: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter7_FittingPhenologyModels_Solutions.ipynb
-.. _Chapter8_Practical_Part2: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter8_Practical_Part2.ipynb
-.. _Chapter9_Fire_and_Teleconnections: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter9_Fire_and_Teleconnections.ipynb
-.. _Chapter9_Fire_and_Teleconnections_Solution: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Chapter9_Fire_and_Teleconnections_Solution.ipynb
-.. _Connection: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=Connection.ipynb
-.. _index: https://mybinder.org/v2/gh/profLewis/geog0111.git/master?filepath=index.ipynb
+.. _Go to full list of notebooks: https://mybinder.org/v2/gh/profLewis/geog0111/master
+.. _Chapter0_help: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter0_help.ipynb
+.. _Chapter1_Python_introduction: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter1_Python_introduction.ipynb
+.. _Chapter1_Python_introduction_answers: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter1_Python_introduction_answers.ipynb
+.. _Chapter2_Numpy_matplotlib: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter2_Numpy_matplotlib.ipynb
+.. _Chapter2_Numpy_matplotlib_answers: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter2_Numpy_matplotlib_answers.ipynb
+.. _Chapter3_0_GDAL: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter3_0_GDAL.ipynb
+.. _Chapter3_1_GDAL: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter3_1_GDAL.ipynb
+.. _Chapter3_1_GDAL_answers: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter3_1_GDAL_answers.ipynb
+.. _Chapter3_2_MODIS_download: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter3_2_MODIS_download.ipynb
+.. _Chapter3_2_MODIS_download_answers: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter3_2_MODIS_download_answers.ipynb
+.. _Chapter3_3_GDAL_masking: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter3_3_GDAL_masking.ipynb
+.. _Chapter3_4_GDAL_stacking_and_interpolating: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter3_4_GDAL_stacking_and_interpolating.ipynb
+.. _Chapter3_4a_GDAL_stacking_and_interpolating-convolution: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter3_4a_GDAL_stacking_and_interpolating-convolution.ipynb
+.. _Chapter3_5_Movies: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter3_5_Movies.ipynb
+.. _Chapter3_6A_GDAL_Reconciling_projections_prerequisites: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter3_6A_GDAL_Reconciling_projections_prerequisites.ipynb
+.. _Chapter3_6_GDAL_Reconciling_projections: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter3_6_GDAL_Reconciling_projections.ipynb
+.. _Chapter4_Practical_Part1: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter4_Practical_Part1.ipynb
+.. _Chapter5_Linear_models: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter5_Linear_models.ipynb
+.. _Chapter5_Modelling_and_optimisation: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter5_Modelling_and_optimisation.ipynb
+.. _Chapter6_NonLinear_Model_Fitting: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter6_NonLinear_Model_Fitting.ipynb
+.. _Chapter6_NonLinear_Model_Fitting_Solutions: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter6_NonLinear_Model_Fitting_Solutions.ipynb
+.. _Chapter7_FittingPhenologyModels: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter7_FittingPhenologyModels.ipynb
+.. _Chapter7_FittingPhenologyModels_Solutions: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter7_FittingPhenologyModels_Solutions.ipynb
+.. _Chapter8_Practical_Part2: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter8_Practical_Part2.ipynb
+.. _Chapter9_Fire_and_Teleconnections: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter9_Fire_and_Teleconnections.ipynb
+.. _Chapter9_Fire_and_Teleconnections_Solution: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Chapter9_Fire_and_Teleconnections_Solution.ipynb
+.. _Connection: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=Connection.ipynb
+.. _index: https://mybinder.org/v2/gh/profLewis/geog0111/master?filepath=index.ipynb
 .. _Prof P. Lewis: http://www.geog.ucl.ac.uk/~plewis
 .. _Prof Philip Lewis: http://www.geog.ucl.ac.uk/~plewis
 .. _Dr. Jose Gomez-Dans: http://www.geog.ucl.ac.uk/about-the-department/people/research-staff/research-staff/jose-gomez-dans/
